@@ -13,3 +13,4 @@ script: ./bin/phpunit --coverage-text
 matrix:
      allow_failures:
          - php: "hhvm"
+
