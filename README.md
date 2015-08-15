@@ -3,7 +3,7 @@
 [![Build Status]
 (https://travis-ci.org/nilportugues/jsend-transformer.svg)]
 (https://travis-ci.org/nilportugues/jsend-transformer) [![Coverage Status]
-(https://coveralls.io/repos/nilportugues/jsend-transformer/badge.svg?branch=master&service=github)]
+(https://coveralls.io/repos/nilportugues/jsend-transformer/badge.svg?branch=master&service=github?)]
 (https://coveralls.io/github/nilportugues/jsend-transformer?branch=master) [![Scrutinizer Code Quality]
 (https://scrutinizer-ci.com/g/nilportugues/jsend-transformer/badges/quality-score.png?b=master)]
 (https://scrutinizer-ci.com/g/nilportugues/jsend-transformer/?branch=master) [![SensioLabsInsight]
