@@ -225,6 +225,9 @@ Content-type: application/json; charset=utf-8
         },
         "next": {
             "href": "http://example.com/post/10"
+        },
+        "comments": {
+            "href": "http://example.com/post/9/comments"
         }
     }
 }
